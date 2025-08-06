@@ -1,1 +1,1 @@
-This is a practice repository for scripts
+A script to check systems
