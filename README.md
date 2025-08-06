@@ -1,1 +1,1 @@
-A script to check systems
+A script to check hardware info.
